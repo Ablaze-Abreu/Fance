@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="styles.css">
+    <title>Fance</title>
+
+</head>
+<body>
+    <main>
+        <header class="header"></header>
+        <div class="menu">
+      <a href="" class="logo">Fence<span class="dot">.</span></a>
+        <input type="checkbox"  id="menu"/>
+          <nav class="navbar">
+            <ul>
+              <li><a href="#">Home</a></li>
+              <li><a href="#">About us</a></li>
+              <li><a href="#">Portafolio</a></li>
+              <li><a href="#">Blog</a></li>
+              <li><a href="#">Contact</a></li>
+            </ul>
+          </nav>
+        </div>
+
+        <div class="lang">
+            <p class="one">Hello, We are</p>
+            <h2>Fance Design</h2>
+            <p>And Trust Us, You Want To Hire Us.</p>   
+        </div>
+        <section class="border">
+          <div class="services">
+            <h3>Services</h3>
+            <p class="texto">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p> 
+              <p class="texto">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
+            <button>View More</button>
+          </div>
+          <div class="icons">
+            <div class="icon-basket">
+           <i class="bi bi-basket2-fill"></i>
+            </div>
+          <div class="icon-circle"> 
+          </div>
+          </div>
+          <div class="text">
+            <h3 class="title">Marketing</h3>
+            <p class="texts">Lorem ipsum dolor sit amet, consectetuer adipiscing elit,</p> 
+             <p class="texts"> sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna</p> 
+          </div>
+        </section>
+    </main>
+   
+</body>
+</html>
