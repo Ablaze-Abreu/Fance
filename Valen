@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="s.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+
+  <title>Daniela</title>
+</head>
+<body>
+<main>
+<header class="head"></header>
+<div class="menu">
+
+  <nav class="navbar">
+
+    <ul>
+      <li><a href="">Home</a></li>
+      <li><a href="">folio</a></li>
+      <li><a href="">About</a></li>
+      <li><a href="">Contact</a></li>
+      <li><a href="">Blog</a></li>
+    </ul>
+
+
+  </nav>
+ 
+</div>
+ </main>
+<section class="header">
+  <p class="p"><span class="hi">Hola</span> soy Daniela</p>
+  <h1 class="title">Webdesigner / Developer</h1>
+  <p>Diseño web único con <span class="CSS">HTML, CSS, jQuery y Wordpress</span></p>
+</section>
+<div class="icons">
+  <div class="icon-circle">
+   <i class="bi bi-activity"></i>
+  </div>
+  <div class="icon-mail">
+    <i class="bi bi-envelope-fill"></i>
+  </div>
+</div>
+
+
+<section class="Lorem">
+<div class="box-icons">
+
+</div>
+
+</section>
+
+
+</body>
+</html>
